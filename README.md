@@ -1,16 +1,21 @@
-# find_out_flutter
+# Find Out
 
-A new Flutter project.
+This is a Flutter project.
 
-## Getting Started
+## Objective
 
-This project is a starting point for a Flutter application.
+```
+Travel Places UI
 
-A few resources to get you started if this is your first Flutter project:
+Author: Mauricio Lopez
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://dribbble.com/shots/14208274-Travel-Places-UI/attachments/5846854?mode=media
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Objective](readme-images/objective.jpg)
+
+## Pages
+
+### Login Page
+
+![LoginPage](readme-images/login.jpg)
